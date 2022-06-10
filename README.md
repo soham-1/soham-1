@@ -13,6 +13,10 @@
 <a href="https://linkedin.com/in/soham-patkar/"><img src="https://github.com/devdattakhoche/devdattakhoche/blob/main/logos/linkedin.png" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=sohampatkar93@gmail.com"><img src="https://raw.githubusercontent.com/devdattakhoche/devdattakhoche/main/logos/google-plus.png" width="40" /></a>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=soham-1&style=for-the-badge" alt="Soham's Github Stats" />
+</p>
+
 <!--
 **soham-1/soham-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
